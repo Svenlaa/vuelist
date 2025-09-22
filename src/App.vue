@@ -34,6 +34,7 @@ const createListItem = () => {
   title.value = ''
 }
 const title = defineModel({ default: '', required: true })
+// push?
 </script>
 
 <template>
